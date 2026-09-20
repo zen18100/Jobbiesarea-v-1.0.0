@@ -1,0 +1,6 @@
+{
+  "name": "JOBBIESAREA",
+  "description": "Educational subject platform with Firebase Authentication for student access and learning resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
